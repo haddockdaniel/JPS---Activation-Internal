@@ -57,7 +57,6 @@ D:\Projects\MCCabe Trust Ledger Fix\JurisUtilityBase\obj\x86\Release\JurisUtilit
 D:\Projects\MCCabe Trust Ledger Fix\JurisUtilityBase\obj\x86\Release\JPS - McCabe Trust Fix.exe.manifest
 D:\Projects\MCCabe Trust Ledger Fix\JurisUtilityBase\obj\x86\Release\JPS - McCabe Trust Fix.application
 D:\Projects\MCCabe Trust Ledger Fix\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
-D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csprojAssemblyReference.cache
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.ResolveComReference.cache
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.PrinterDialog.resources
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.ReportDisplay.resources
@@ -80,7 +79,6 @@ D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\JurisStr2
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\JurisStr221.dll
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\JurisSVR21.dll
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\Costura.xml
-D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.CopyComplete
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\Juris ProServ Activation.exe.config
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\Juris ProServ Activation.exe.manifest
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\bin\x86\Release\Juris ProServ Activation.application
@@ -90,3 +88,4 @@ D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\Juris Pro
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\Juris ProServ Activation.application
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\Juris ProServ Activation.exe
 D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\Juris ProServ Activation.pdb
+D:\Projects\JPS - Activation Internal\JurisUtilityBase\obj\x86\Release\JurisUtilityBase.csproj.AssemblyReference.cache

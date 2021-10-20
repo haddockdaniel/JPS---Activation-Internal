@@ -118,9 +118,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(123, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(184, 13);
+            this.label1.Size = new System.Drawing.Size(179, 13);
             this.label1.TabIndex = 18;
-            this.label1.Text = "Database Name (Example: 5073-001)";
+            this.label1.Text = "Company Code (Example: 5073-001)";
             // 
             // textBoxDB
             // 
